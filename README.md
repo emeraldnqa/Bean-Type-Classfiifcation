@@ -1,1 +1,1 @@
-# DSCI100-group-project
+# Bean Type Classification using KNN
